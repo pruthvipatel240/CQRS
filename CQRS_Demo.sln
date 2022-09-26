@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CQRS_Demo", "CQRS_Demo.csproj", "{0EA70D64-0D93-4244-A86B-6A1392572487}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS_Data", "..\CQRS_Data\CQRS_Data.csproj", "{B4028561-8B0F-40F8-9D5B-6DBB366D0B9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EA70D64-0D93-4244-A86B-6A1392572487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EA70D64-0D93-4244-A86B-6A1392572487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EA70D64-0D93-4244-A86B-6A1392572487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EA70D64-0D93-4244-A86B-6A1392572487}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4028561-8B0F-40F8-9D5B-6DBB366D0B9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4028561-8B0F-40F8-9D5B-6DBB366D0B9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4028561-8B0F-40F8-9D5B-6DBB366D0B9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4028561-8B0F-40F8-9D5B-6DBB366D0B9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2DD9117-B01A-4D52-8A53-D2247AEBD3A9}
+	EndGlobalSection
+EndGlobal
